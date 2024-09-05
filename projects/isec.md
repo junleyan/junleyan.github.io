@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/isec/isec.jpg
+image: img/isec/isec.png
 title: "EURO MED SEC 5 Conference Page"
 date: 2024
 published: true
