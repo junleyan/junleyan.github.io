@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aloha-queue/aloha-queue-rectangle.png
+image: img/aloha-queue/aloha-queue-square.png
 title: "AlohaQueue"
 date: 2023
 published: true
