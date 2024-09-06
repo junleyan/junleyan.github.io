@@ -4,7 +4,7 @@ type: essay
 title: "I Kinda Love Typescript???"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: false
+published: true
 labels:
   - Typescript
 ---
