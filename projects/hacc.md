@@ -16,7 +16,7 @@ summary: "An URL shortener to enhance the security of web content sharing by sta
 
 <img class="img-fluid" src="../img/hacc/magsafe.png">
 
-MagSafe is a web address-shortening platform that helps state agencies share web content in a more organized and secure manner.
+[MagSafe](https://github.com/junleyan/HACC2022-MagSafe) is a web address-shortening platform that helps state agencies share web content in a more organized and secure manner.
 
 ## Inspiration
 We recognized the risks involved in using public web address-shortening services such as Bitly and TinyURL. Although these services are free and convenient to use, they are often a precursor to data breaches and ransomware attacks. To combat this issue, we designed our web address shortening platform intending to offer better security and to protect the State of Hawaii’s branding.
