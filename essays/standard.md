@@ -27,4 +27,4 @@ In my opinion, the initial pain of fixing these errors is outweighed by the bene
 
 # Conclusion
 
-Coding standards are not just about aesthetics; they're a foundational aspect of professional software development. They improve collaboration and reduce errors. Tools like ESLint might seem demanding at first, but they serve an essential role in maintaining code quality and consistency. Embracing coding standards and the tools that enforce them is a worthwhile investment that pays off in the form of cleaner, more maintainable, and reliable code.
+Coding standards are not just about aesthetics. They're a foundational aspect of professional software development. They improve collaboration and reduce errors. Tools like ESLint might seem demanding at first, but they serve an essential role in maintaining code quality and consistency. Embracing coding standards and the tools that enforce them is a worthwhile investment that pays off in the form of cleaner, more maintainable, and reliable code.
