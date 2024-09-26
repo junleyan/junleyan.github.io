@@ -13,7 +13,7 @@ labels:
 
 # My Reflections on Coding Standards
 
-When I first started programming, coding standards seemed like trivial preferences—whether to use tabs or spaces, where to place braces, or how to name variables. I thought these were minor details that didn't significantly impact the quality of the code. However, over time, I've come to realize that coding standards are far more important than just stylistic choices. In fact, I agree that if there's one software engineering technique that can significantly improve code quality, it is the consistent use of coding standards.
+When I first started programming, coding standards seemed like trivial preferences. Whether to use tabs or spaces, where to place braces, or how to name variables. I thought these were minor details that didn't have a big impact on the quality of the code. However, over time, I've come to realize that coding standards are far more important than just stylistic choices. In fact, I agree that if there's one software engineering technique that can significantly improve code quality, it is the consistent use of coding standards.
 
 Coding standards do more than make code look neat. They enhance readability, maintainability, and reduce the likelihood of errors. By obeying by a set of guidelines, teams can collaborate more effectively, as everyone writes code in a uniform manner. This makes it easier to read and understand each other's code, which allows for quicker reviews and smoother onboarding of new team members.
 
