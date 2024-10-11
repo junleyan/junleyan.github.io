@@ -23,7 +23,7 @@ That's when I decided to try Bootstrap. And I'll be honest, learning Bootstrap 5
 
 Bootstrap gave me speed. It wasn't just about making a webpage look pretty, it was about efficiency. Instead of spending hours writing CSS to make a navbar look decent, I could just drop in a Bootstrap component and be done with it. I remember the first time I used one of its pre-made components, it was a button. A simple button that looked polished, with a neat hover effect and consistent spacing. I was hooked. Why waste hours reinventing the wheel when Bootstrap already had a well-designed, accessible version of that wheel?
 
-Another big win was responsiveness. Making websites responsive used to be the stuff of nightmares. I had to write endless media queries and experiment with different breakpoints, often hitting refresh a hundred times to see if the layout looked right on my phone. But with Bootstrap's grid system, responsiveness was baked in. I could throw together a page layout and trust that it would adapt to various screen sizes. It's like I was given a safety net—no matter what kind of device someone used, the layout would adjust beautifully without my having to micromanage every detail.
+Another big win was responsiveness. Making websites responsive used to be the stuff of nightmares. I had to write endless media queries and experiment with different breakpoints, often hitting refresh a hundred times to see if the layout looked right on my phone. But with Bootstrap's grid system, responsiveness was baked in. I could throw together a page layout and trust that it would adapt to various screen sizes. It's like I was given a safety net no matter what kind of device someone used, the layout would adjust beautifully without my having to micromanage every detail.
 
 ## Software Engineering Benefits
 
@@ -37,7 +37,7 @@ I eventually got curious about other frameworks. I dabbled with Semantic UI for 
 
 ## The Downsides of UI Frameworks
 
-Using UI frameworks isn't without its downsides. For one, there's a learning curve—like I said earlier, it's almost like learning a new language. Plus, they can add a lot of bloat to your project. When I just needed a simple page, including an entire framework like Bootstrap felt like overkill. It was like using a bulldozer to plant a flower. For small projects, writing raw HTML and CSS was still often the best route.
+Using UI frameworks isn't without its downsides. For one, there's a learning curve, like I said earlier, it's almost like learning a new language. Plus, they can add a lot of bloat to your project. When I just needed a simple page, including an entire framework like Bootstrap felt like overkill. It was like using a bulldozer to plant a flower. For small projects, writing raw HTML and CSS was still often the best route.
 
 There's also the danger of ending up with websites that all look alike. Since frameworks are so widely used, it's easy to fall into the trap of just using the default styles, which can lead to a "Bootstrap look" that's generic and uninspired. I had to learn how to customize the framework's components to give my projects a unique feel to make them mine.
 
