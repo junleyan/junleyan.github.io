@@ -11,6 +11,8 @@ labels:
   - Web Development
 ---
 
+![Bootstrap 5 Illustration](https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png "Illustration of Bootstrap 5")
+
 # How I Ended Up Exploring UI Frameworks
 
 When I started out building websites, everything seemed pretty straightforward. Raw HTML and a bit of CSS was enough for me to put up simple pages that looked alright. They weren’t flashy, but they worked. It was a liberating feeling, being able to create something visual from scratch, and see it live in a browser. But as I got deeper into web development, I began to realize that the simplicity I loved also came with a hefty price. Creating pages that actually looked professional took a lot of time—more time than I wanted to spend on things like aligning buttons or ensuring that my site looked good on a phone.
