@@ -98,3 +98,7 @@ This implementation captures the essence of MVC: the Model (“Prisma”) handle
 Using MVC for that project taught me more than just how to build applications. It showed me how a design pattern could bring structure to my work. Suddenly, the code I wrote wasn’t just functional, it was predictable and actually maintainable. Want to change how data is fetched? Update the Model. Need a new way for users to interact? Modify the Controller. Ready for a UI facelift? Revamp the View. Each piece had their own responsibility, and changes in one didn’t send ripples of chaos through the others.
 
 The real "aha" moment came when I revisited one of my older, "free-spirited" projects. Compared to my MVC-based application, the old project was like a Jenga tower with pieces missing. Trying to fix a bug or add a feature felt like a game of "guess which function breaks next." The contrast was undeniable, and it made me realize just how much design patterns like MVC could elevate the scalability of a project.
+
+# The Bigger Picture
+
+When people ask, "What are design patterns?", I like to think of them as time-tested blueprints for solving recurring problems in software development. They’re not about reinventing the wheel but about using established practices to make your code cleaner and more reliable, which is something I think that both you and other developers will greatly appreciate.
