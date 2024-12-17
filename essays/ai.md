@@ -11,7 +11,7 @@ labels:
   - Web Development
 ---
 
-<img width="50%" class="rounded float-start pe-4" src="../img/chatgpt.jpg">
+<img width="100%" class="rounded float-start pe-4" src="../img/chatgpt.jpg">
 
 # I. Introduction
 AI has been a game-changer in tech, education, and especially for computer science students like me. It's like having an unpaid intern who's always there to help with tedious tasks you aren't willing to do. So far, I've only tried AI models from OpenAI, like GPT-4o and GPT-o1, but they have been a huge boost to my productivity. Mainly, I use AI to bring my ideas to life, which gives me more time to focus on problem-solving.
