@@ -4,7 +4,7 @@ type: essay
 title: "ChatGPT Is a Productivity Powerhouse"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-17
-published: false
+published: true
 labels:
   - Generative AI
   - Productivity
