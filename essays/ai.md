@@ -63,4 +63,10 @@ For me, AI lowers the barrier for programmers to write code in any language. Whi
 # IV. Practical Applications
 Generative AI can serve as a temporary replacement for algorithms in certain scenarios. For instance, during a project in HACC, I needed to implement a function that analyzed columns in a unique CSV dataset to determine which could be used as the x and y axes for visualizing the data. Instead of spending significant time developing an algorithm to determine this programmatically, I used the OpenAI GPT API to handle the task. This approach saved a considerable amount of development time, allowing us to focus on other features of our application. In conclusion, I believe generative AI tools like ChatGPT are excellent substitutes for algorithms when rapid development is a priority.
 
-# VI. Challenges and Opportunities
+# V. Challenges and Opportunities
+For the Digits or Next.js application tutorial, I struggled to provide AI or ChatGPT with the correct context for the issues I faced, as a Next.js application is significantly more complex. As a result, ChatGPT wasn’t very helpful in that situation because I had nothing to reference apart from the tutorial page. I believe it would be incredibly useful to have a ChatGPT assistant specifically tailored to the teaching material, as it would already have the context of what students are working on. This would eliminate the need to constantly copy and pasting code or switch tabs just to provide sufficient context for ChatGPT to offer a helpful response. 
+
+# VI. Comparative Analysis
+Traditional teaching in software engineering, while effective in providing students with a strong foundational knowledge, can sometimes feel too rigid and may not suit everyone's learning pace. AI tools, on the other hand, make learning more flexible by offering instant feedback and personalized assistance. AI-enhanced learning also helps students save time on repetitive tasks, allowing them to focus more on problem-solving. However, excessive reliance on AI could hinder the development of critical thinking skills and reduce hands-on experience with writing and debugging code.
+
+# VII. Future Considerations
