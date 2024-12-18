@@ -59,3 +59,8 @@ When I write a function or code myself, I review it by providing ChatGPT with th
 
 # III. Impact on Learning and Understanding
 For me, AI lowers the barrier for programmers to write code in any language. While AI may not excel at writing complete application codebases, it is an excellent tool for bringing a programmer's ideas to life. With AI, programmers can focus more on understanding the conceptual and theoretical aspects of computer science rather than spending excessive time on syntax and troubleshooting. This allows me to dedicate more time to problem-solving and deepening my understanding of development concepts. However, relying too much on AI to bypass the troubleshooting process could hinder the development of critical problem-solving skills for me and other students, which might become a challenge later on as software developers.
+
+# IV. Practical Applications
+Generative AI can serve as a temporary replacement for algorithms in certain scenarios. For instance, during a project in HACC, I needed to implement a function that analyzed columns in a unique CSV dataset to determine which could be used as the x and y axes for visualizing the data. Instead of spending significant time developing an algorithm to determine this programmatically, I used the OpenAI GPT API to handle the task. This approach saved a considerable amount of development time, allowing us to focus on other features of our application. In conclusion, I believe generative AI tools like ChatGPT are excellent substitutes for algorithms when rapid development is a priority.
+
+# VI. Challenges and Opportunities
